@@ -1,0 +1,28 @@
+@charset "UTF- 8";
+/* CSS Document */
+ h1{
+    text-align: center;
+    color: pink;
+  }
+  p{
+      text-align: center;
+      color: black;
+  }
+.submit-button
+{
+background-color: #4CAF50;
+border:solid;
+color: rgb(63, 28, 28);
+padding: 25px 50px;
+text-align: center;
+cursor: pointer;
+}
+.info-text
+{
+background-color: rgb(175, 76, 76);
+border:solid;
+color: rgb(63, 28, 28);
+padding: 25px 50px;
+text-align: center;
+cursor: pointer;
+}
